@@ -1,6 +1,6 @@
 # Powershell Hash Compare
 
-## A script that will determine if a file hash is correct to the input hash
+## A script that will determine if a file hash matches the input hash
 At the moment it only does the default SHA256 hash.
 
 ### Usage

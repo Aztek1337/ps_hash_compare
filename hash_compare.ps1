@@ -22,6 +22,6 @@ try {
     Write-Host "Input file hash: $input_hash"
 }
 catch {
-    "Error! Did you pass in an argument? Example: <aa_hash_compare test.exe>"
+    "Error! Did you pass in an argument? Example: <hash_compare.ps1 test.exe>"
 }
 
