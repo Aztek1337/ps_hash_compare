@@ -13,4 +13,4 @@ At the moment it only does the default SHA256 hash.
 
 
 ### Screenshot
-![Screenshot of the Hash Compare tool in use.](.\Screenshots\Example.png)
+![Screenshot of the Hash Compare tool in use.](./Screenshots\Example.png)
